@@ -1,0 +1,17 @@
+# conf
+**/.env
+**/*.ovpn
+
+# plex
+**/movies
+**/series
+
+# init folders
+qbittorrent/**
+!qbittorrent/.gitkeep
+downloads/**
+!downloads/.gitkeep
+gluetun/**
+!gluetun/.gitkeep
+plex/**
+!plex/.gitkeep
